@@ -1,15 +1,9 @@
 #TITLE:TbeatLoop120BPM;
-#SUBTITLE:;
 #ARTIST:T_3;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
 #GENRE:Test;
-#CREDIT:TbeatLoop120BPM by T_3 (c) copyright 2020 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. ccmixter.org/files/T_3/61530 ;
+#CREDIT:TbeatLoop120BPM by T_3 (c) copyright 2020 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. dig.ccmixter.org/files/T_3/61530 ;
 #BANNER:bn.png;
 #BACKGROUND:bg.png;
-#LYRICSPATH:;
-#CDTITLE:;
 #MUSIC:TbeatLoop120BPM.mp3;
 #OFFSET:0.000000;
 #SAMPLESTART:0.000000;
@@ -17,11 +11,6 @@
 #SELECTABLE:YES;
 #BPMS:0.000000=120.000000
 ;
-#STOPS:
-;
-#BGCHANGES:;
-#KEYSOUNDS:;
-#ATTACKS:;
 
 //---------------dance-single - ----------------
 #NOTES:

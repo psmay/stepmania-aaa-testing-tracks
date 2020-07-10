@@ -10,7 +10,7 @@ Its name starts with "AAA" so that it will probably show up first in alphabetica
 Songs
 -----
 
-*   "[TbeatLoop120BPM](http://ccmixter.org/files/T_3/61530)" by T_3 © 2020. Licensed under a [Creative Commons Attribution Noncommercial (3.0) license](https://creativecommons.org/licenses/by-nc/3.0/).
+*   "[TbeatLoop120BPM](http://dig.ccmixter.org/files/T_3/61530)" by T_3 © 2020. Licensed under a [Creative Commons Attribution Noncommercial (3.0) license](https://creativecommons.org/licenses/by-nc/3.0/).
 
 Everything other than the song files
 ------------------------------------
