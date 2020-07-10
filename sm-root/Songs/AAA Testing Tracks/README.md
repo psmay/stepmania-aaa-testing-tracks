@@ -26,6 +26,6 @@ License
 
 ### Everything other than the song files
 
-The non-audio content of this collection, including banner artwork, background artwork, step chart, and course files, were created by me (psmay) and are by design so simple and uncreative as to be practically uncopyrightable.
+The non-audio content of this collection, including banner artwork, background artwork, step charts, and course files, were created by me (psmay) and are by design so simple and uncreative as to be practically uncopyrightable.
 
 But, for the sake of completeness, I (psmay) waive copyright and related rights for the non-audio content of this archive via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
